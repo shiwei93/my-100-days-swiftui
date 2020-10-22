@@ -7,5 +7,5 @@
 <details>
 <summary>Full List</summary>
 
-- **Day 01:** [_Project 1: WeSplit_ (Part One)](.day-01/README.md)
-- **Day 02:** [_Project 1: WeSplit_ (Part Two)](.day-02/README.md)
+- **Day 01:** [_Project 1: WeSplit_ (Part One)](./day-01/README.md)
+- **Day 02:** [_Project 1: WeSplit_ (Part Two)](./day-02/README.md)
